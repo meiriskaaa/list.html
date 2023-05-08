@@ -1,0 +1,2 @@
+# list.html
+daftar jurusan
